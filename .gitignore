@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Virtual environments
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Your app config
+config.txt
+
+# Logs or screenshots (optional)
+*.log
+screenshot_*.png
